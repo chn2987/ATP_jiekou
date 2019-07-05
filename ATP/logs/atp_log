@@ -1,0 +1,234 @@
+2019-07-04 10:13:32,173 - D:\dalan\ATP\lib\common.py[line:24] - INFO: 共读取7条用例
+2019-07-04 10:13:32,197 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:813] - DEBUG: Starting new HTTPS connection (1): authorizetest.aidalan.com:443
+2019-07-04 10:13:32,990 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: https://authorizetest.aidalan.com:443 "POST /v1/OauthNew/clientAuthorize HTTP/1.1" 200 None
+2019-07-04 10:13:33,004 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): sso.newtest1.51dinghuo.cc:80
+2019-07-04 10:13:33,612 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: http://sso.newtest1.51dinghuo.cc:80 "POST /api/loginpost HTTP/1.1" 200 None
+2019-07-04 10:13:33,635 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 47.106.143.23:8000
+2019-07-04 10:13:33,683 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: http://47.106.143.23:8000 "GET /login HTTP/1.1" 200 610
+2019-07-04 10:13:33,696 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-07-04 10:13:33,698 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-07-04 10:13:33,702 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-07-04 10:13:33,703 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-07-04 10:13:33,705 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-07-04 10:13:33,706 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-07-04 10:13:33,707 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-07-04 10:13:33,707 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-07-04 10:13:33,708 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Russian confidence = 0.01
+2019-07-04 10:13:33,709 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: KOI8-R Russian confidence = 0.01
+2019-07-04 10:13:33,710 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Russian confidence = 0.0
+2019-07-04 10:13:33,711 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: MacCyrillic Russian confidence = 0.05910300902831117
+2019-07-04 10:13:33,712 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM866 Russian confidence = 0.0
+2019-07-04 10:13:33,712 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM855 Russian confidence = 0.056416508617933396
+2019-07-04 10:13:33,713 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-7 Greek confidence = 0.0
+2019-07-04 10:13:33,714 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1253 Greek confidence = 0.0
+2019-07-04 10:13:33,715 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Bulgairan confidence = 0.0
+2019-07-04 10:13:33,715 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Bulgarian confidence = 0.0
+2019-07-04 10:13:33,716 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: TIS-620 Thai confidence = 0.029439917348413377
+2019-07-04 10:13:33,717 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-9 Turkish confidence = 0.4723843693709187
+2019-07-04 10:13:33,718 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 10:13:33,719 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 10:13:33,720 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 10:13:33,722 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-07-04 10:13:33,722 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-07-04 10:13:33,723 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-07-04 10:13:33,724 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-07-04 10:13:33,725 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-07-04 10:13:33,726 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-07-04 10:13:33,728 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-07-04 10:13:33,729 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-07-04 10:13:33,740 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 47.106.143.23:8000
+2019-07-04 10:13:33,859 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: http://47.106.143.23:8000 "POST /register HTTP/1.1" 200 54
+2019-07-04 10:13:33,863 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-07-04 10:13:33,864 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-07-04 10:13:33,865 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-07-04 10:13:33,866 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-07-04 10:13:33,867 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-07-04 10:13:33,868 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-07-04 10:13:33,869 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-07-04 10:13:33,869 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-07-04 10:13:33,870 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Russian confidence = 0.01
+2019-07-04 10:13:33,871 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: KOI8-R Russian confidence = 0.01
+2019-07-04 10:13:33,872 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Russian confidence = 0.0
+2019-07-04 10:13:33,873 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: MacCyrillic Russian confidence = 0.0
+2019-07-04 10:13:33,873 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM866 Russian confidence = 0.1962589293546358
+2019-07-04 10:13:33,875 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM855 Russian confidence = 0.19455232996894328
+2019-07-04 10:13:33,877 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-7 Greek confidence = 0.0
+2019-07-04 10:13:33,878 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1253 Greek confidence = 0.0
+2019-07-04 10:13:33,879 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Bulgairan confidence = 0.0
+2019-07-04 10:13:33,880 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Bulgarian confidence = 0.0
+2019-07-04 10:13:33,881 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: TIS-620 Thai confidence = 0.0
+2019-07-04 10:13:33,882 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-9 Turkish confidence = 0.13370201664422982
+2019-07-04 10:13:33,883 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 10:13:33,884 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 10:13:33,885 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 10:13:33,885 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-07-04 10:13:33,886 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-07-04 10:13:33,887 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-07-04 10:13:33,887 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-07-04 10:13:33,889 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-07-04 10:13:33,889 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-07-04 10:13:33,890 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-07-04 10:13:33,890 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-07-04 10:13:33,893 - D:\dalan\ATP\lib\common.py[line:71] - INFO: 结果校验失败，预期结果：【{"msg": "你注册的用户已经存在"】，实际结果【{"msg=你注册的用户已经存在", "code=300}】
+2019-07-04 10:13:33,899 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:813] - DEBUG: Starting new HTTPS connection (1): services.ding-qu.com:443
+2019-07-04 10:13:34,684 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: https://services.ding-qu.com:443 "POST /v4/user/tansuo/getlist HTTP/1.1" 200 74
+2019-07-04 10:13:34,696 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:813] - DEBUG: Starting new HTTPS connection (1): m.heimawan.com:443
+2019-07-04 10:13:35,088 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: https://m.heimawan.com:443 "GET /sdk/security HTTP/1.1" 200 None
+2019-07-04 10:13:35,111 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 118.25.162.168:80
+2019-07-04 10:13:35,251 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: http://118.25.162.168:80 "GET /?action=get_server&oid=dalan&gcid=1135&sv=1562027401&imei=864313037043652&av=4.1.0&uname=16939145_dl&time=1562031807&sign=ac942e9382a178b5c73a0a66fcfe2509 HTTP/1.1" 200 None
+2019-07-04 15:40:40,149 - D:\dalan\ATP\lib\common.py[line:24] - INFO: 共读取7条用例
+2019-07-04 15:40:40,181 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:813] - DEBUG: Starting new HTTPS connection (1): authorizetest.aidalan.com:443
+2019-07-04 15:40:41,031 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: https://authorizetest.aidalan.com:443 "POST /v1/OauthNew/clientAuthorize HTTP/1.1" 200 None
+2019-07-04 15:40:41,039 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): sso.newtest1.51dinghuo.cc:80
+2019-07-04 15:40:41,481 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: http://sso.newtest1.51dinghuo.cc:80 "POST /api/loginpost HTTP/1.1" 200 None
+2019-07-04 15:40:41,492 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 47.106.143.23:8000
+2019-07-04 15:40:41,527 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: http://47.106.143.23:8000 "GET /login HTTP/1.1" 200 610
+2019-07-04 15:40:41,565 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-07-04 15:40:41,566 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-07-04 15:40:41,566 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-07-04 15:40:41,566 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-07-04 15:40:41,566 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-07-04 15:40:41,567 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-07-04 15:40:41,567 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-07-04 15:40:41,567 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-07-04 15:40:41,567 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Russian confidence = 0.01
+2019-07-04 15:40:41,568 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: KOI8-R Russian confidence = 0.01
+2019-07-04 15:40:41,568 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Russian confidence = 0.0
+2019-07-04 15:40:41,568 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: MacCyrillic Russian confidence = 0.05910300902831117
+2019-07-04 15:40:41,568 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM866 Russian confidence = 0.0
+2019-07-04 15:40:41,569 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM855 Russian confidence = 0.056416508617933396
+2019-07-04 15:40:41,569 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-7 Greek confidence = 0.0
+2019-07-04 15:40:41,569 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1253 Greek confidence = 0.0
+2019-07-04 15:40:41,569 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Bulgairan confidence = 0.0
+2019-07-04 15:40:41,570 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Bulgarian confidence = 0.0
+2019-07-04 15:40:41,570 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: TIS-620 Thai confidence = 0.029439917348413377
+2019-07-04 15:40:41,570 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-9 Turkish confidence = 0.4723843693709187
+2019-07-04 15:40:41,570 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 15:40:41,571 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 15:40:41,571 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 15:40:41,571 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-07-04 15:40:41,571 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-07-04 15:40:41,572 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-07-04 15:40:41,572 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-07-04 15:40:41,572 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-07-04 15:40:41,572 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-07-04 15:40:41,572 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-07-04 15:40:41,573 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-07-04 15:40:41,577 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 47.106.143.23:8000
+2019-07-04 15:40:41,603 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: http://47.106.143.23:8000 "POST /register HTTP/1.1" 200 54
+2019-07-04 15:40:41,607 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-07-04 15:40:41,607 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-07-04 15:40:41,607 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-07-04 15:40:41,608 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-07-04 15:40:41,608 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-07-04 15:40:41,608 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-07-04 15:40:41,608 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-07-04 15:40:41,608 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-07-04 15:40:41,609 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Russian confidence = 0.01
+2019-07-04 15:40:41,609 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: KOI8-R Russian confidence = 0.01
+2019-07-04 15:40:41,609 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Russian confidence = 0.0
+2019-07-04 15:40:41,609 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: MacCyrillic Russian confidence = 0.0
+2019-07-04 15:40:41,610 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM866 Russian confidence = 0.1962589293546358
+2019-07-04 15:40:41,610 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM855 Russian confidence = 0.19455232996894328
+2019-07-04 15:40:41,610 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-7 Greek confidence = 0.0
+2019-07-04 15:40:41,610 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1253 Greek confidence = 0.0
+2019-07-04 15:40:41,611 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Bulgairan confidence = 0.0
+2019-07-04 15:40:41,611 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Bulgarian confidence = 0.0
+2019-07-04 15:40:41,611 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: TIS-620 Thai confidence = 0.0
+2019-07-04 15:40:41,611 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-9 Turkish confidence = 0.13370201664422982
+2019-07-04 15:40:41,611 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 15:40:41,612 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 15:40:41,612 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 15:40:41,612 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-07-04 15:40:41,612 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-07-04 15:40:41,613 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-07-04 15:40:41,613 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-07-04 15:40:41,613 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-07-04 15:40:41,613 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-07-04 15:40:41,613 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-07-04 15:40:41,614 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-07-04 15:40:41,614 - D:\dalan\ATP\lib\common.py[line:71] - INFO: 结果校验失败，预期结果：【{"msg": "你注册的用户已经存在"】，实际结果【{"msg=你注册的用户已经存在", "code=300}】
+2019-07-04 15:40:41,618 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:813] - DEBUG: Starting new HTTPS connection (1): services.ding-qu.com:443
+2019-07-04 15:40:42,455 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: https://services.ding-qu.com:443 "POST /v4/user/tansuo/getlist HTTP/1.1" 200 74
+2019-07-04 15:40:42,462 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:813] - DEBUG: Starting new HTTPS connection (1): m.heimawan.com:443
+2019-07-04 15:40:42,896 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: https://m.heimawan.com:443 "GET /sdk/security HTTP/1.1" 200 None
+2019-07-04 15:40:42,904 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 118.25.162.168:80
+2019-07-04 15:40:43,180 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: http://118.25.162.168:80 "GET /?action=get_server&oid=dalan&gcid=1135&sv=1562027401&imei=864313037043652&av=4.1.0&uname=16939145_dl&time=1562031807&sign=ac942e9382a178b5c73a0a66fcfe2509 HTTP/1.1" 200 None
+2019-07-04 15:41:39,390 - D:\dalan\ATP\lib\common.py[line:24] - INFO: 共读取7条用例
+2019-07-04 15:41:39,394 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:813] - DEBUG: Starting new HTTPS connection (1): authorizetest.aidalan.com:443
+2019-07-04 15:41:40,114 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: https://authorizetest.aidalan.com:443 "POST /v1/OauthNew/clientAuthorize HTTP/1.1" 200 None
+2019-07-04 15:41:40,121 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): sso.newtest1.51dinghuo.cc:80
+2019-07-04 15:41:40,230 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: http://sso.newtest1.51dinghuo.cc:80 "POST /api/loginpost HTTP/1.1" 200 None
+2019-07-04 15:41:40,238 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 47.106.143.23:8000
+2019-07-04 15:41:40,264 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: http://47.106.143.23:8000 "GET /login HTTP/1.1" 200 610
+2019-07-04 15:41:40,277 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-07-04 15:41:40,277 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-07-04 15:41:40,278 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-07-04 15:41:40,278 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-07-04 15:41:40,278 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-07-04 15:41:40,278 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-07-04 15:41:40,278 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-07-04 15:41:40,279 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-07-04 15:41:40,279 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Russian confidence = 0.01
+2019-07-04 15:41:40,279 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: KOI8-R Russian confidence = 0.01
+2019-07-04 15:41:40,279 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Russian confidence = 0.0
+2019-07-04 15:41:40,280 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: MacCyrillic Russian confidence = 0.05910300902831117
+2019-07-04 15:41:40,280 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM866 Russian confidence = 0.0
+2019-07-04 15:41:40,280 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM855 Russian confidence = 0.056416508617933396
+2019-07-04 15:41:40,280 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-7 Greek confidence = 0.0
+2019-07-04 15:41:40,281 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1253 Greek confidence = 0.0
+2019-07-04 15:41:40,281 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Bulgairan confidence = 0.0
+2019-07-04 15:41:40,281 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Bulgarian confidence = 0.0
+2019-07-04 15:41:40,281 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: TIS-620 Thai confidence = 0.029439917348413377
+2019-07-04 15:41:40,281 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-9 Turkish confidence = 0.4723843693709187
+2019-07-04 15:41:40,282 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 15:41:40,282 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 15:41:40,282 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 15:41:40,282 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-07-04 15:41:40,283 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-07-04 15:41:40,283 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-07-04 15:41:40,283 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-07-04 15:41:40,283 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-07-04 15:41:40,283 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-07-04 15:41:40,284 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-07-04 15:41:40,284 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-07-04 15:41:40,288 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 47.106.143.23:8000
+2019-07-04 15:41:40,320 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: http://47.106.143.23:8000 "POST /register HTTP/1.1" 200 54
+2019-07-04 15:41:40,323 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-07-04 15:41:40,324 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-07-04 15:41:40,324 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-07-04 15:41:40,324 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-07-04 15:41:40,325 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-07-04 15:41:40,325 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-07-04 15:41:40,325 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-07-04 15:41:40,325 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-07-04 15:41:40,326 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Russian confidence = 0.01
+2019-07-04 15:41:40,326 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: KOI8-R Russian confidence = 0.01
+2019-07-04 15:41:40,326 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Russian confidence = 0.0
+2019-07-04 15:41:40,326 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: MacCyrillic Russian confidence = 0.0
+2019-07-04 15:41:40,326 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM866 Russian confidence = 0.1962589293546358
+2019-07-04 15:41:40,327 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: IBM855 Russian confidence = 0.19455232996894328
+2019-07-04 15:41:40,327 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-7 Greek confidence = 0.0
+2019-07-04 15:41:40,327 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1253 Greek confidence = 0.0
+2019-07-04 15:41:40,327 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-5 Bulgairan confidence = 0.0
+2019-07-04 15:41:40,328 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1251 Bulgarian confidence = 0.0
+2019-07-04 15:41:40,328 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: TIS-620 Thai confidence = 0.0
+2019-07-04 15:41:40,328 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: ISO-8859-9 Turkish confidence = 0.13370201664422982
+2019-07-04 15:41:40,328 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 15:41:40,328 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 15:41:40,329 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: windows-1255 Hebrew confidence = 0.0
+2019-07-04 15:41:40,329 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: utf-8  confidence = 0.99
+2019-07-04 15:41:40,329 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2019-07-04 15:41:40,329 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-JP Japanese confidence = 0.01
+2019-07-04 15:41:40,330 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: GB2312 Chinese confidence = 0.01
+2019-07-04 15:41:40,330 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-KR Korean confidence = 0.01
+2019-07-04 15:41:40,330 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: CP949 Korean confidence = 0.01
+2019-07-04 15:41:40,331 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: Big5 Chinese confidence = 0.01
+2019-07-04 15:41:40,331 - D:\Program Files\python3.5\lib\site-packages\chardet\charsetgroupprober.py[line:100] - DEBUG: EUC-TW Taiwan confidence = 0.01
+2019-07-04 15:41:40,331 - D:\dalan\ATP\lib\common.py[line:71] - INFO: 结果校验失败，预期结果：【{"msg": "你注册的用户已经存在"】，实际结果【{"msg=你注册的用户已经存在", "code=300}】
+2019-07-04 15:41:40,335 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:813] - DEBUG: Starting new HTTPS connection (1): services.ding-qu.com:443
+2019-07-04 15:41:40,646 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: https://services.ding-qu.com:443 "POST /v4/user/tansuo/getlist HTTP/1.1" 200 74
+2019-07-04 15:41:40,649 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:813] - DEBUG: Starting new HTTPS connection (1): m.heimawan.com:443
+2019-07-04 15:41:40,941 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: https://m.heimawan.com:443 "GET /sdk/security HTTP/1.1" 200 None
+2019-07-04 15:41:40,945 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 118.25.162.168:80
+2019-07-04 15:41:41,223 - D:\Program Files\python3.5\lib\site-packages\urllib3\connectionpool.py[line:393] - DEBUG: http://118.25.162.168:80 "GET /?action=get_server&oid=dalan&gcid=1135&sv=1562027401&imei=864313037043652&av=4.1.0&uname=16939145_dl&time=1562031807&sign=ac942e9382a178b5c73a0a66fcfe2509 HTTP/1.1" 200 None
